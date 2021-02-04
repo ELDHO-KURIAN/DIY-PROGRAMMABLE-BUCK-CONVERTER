@@ -24,3 +24,10 @@ https://www.youtube.com/watch?v=f2JEUacdmig&list=WL&index=2
 # WORKING
 <image src="images/IMG_20210126_113046.jpg" width="500"> 
  <image src="images/IMG_20210126_113055.jpg" width="500"> 
+  
+  **! THIS PROJECT IS NOT PERFECT AND IS SUBJECTIVE TO HAVE PROBLEMS**
+  
+**for more help or assistance contact me at eldhokurian123456789@gmail.com**
+
+# if you want to support me
+paypal.me/eldhokurianatom
