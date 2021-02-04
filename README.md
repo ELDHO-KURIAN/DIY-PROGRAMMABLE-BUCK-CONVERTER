@@ -1,6 +1,7 @@
 # DIY-PROGRAMMABLE-BUCK-CONVERTER
 This project aims to create a diy programmable high power buck converter which can be customised to fit for different applications 
  <image src="images/IMG_20210125_130544.jpg" width="800"> 
+ 
   # FEATURES
  ```
 1. wide input ranging from 15v to 80v
@@ -10,3 +11,6 @@ This project aims to create a diy programmable high power buck converter which c
 5. over current and short circuit protection
 6. RGB led which change color according to mode
 ``` 
+
+# SCHEMATIC
+<image src="images/Schematic_buckx_2021-02-04.jpg" width="800"> 
