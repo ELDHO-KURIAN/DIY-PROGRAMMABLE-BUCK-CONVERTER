@@ -19,3 +19,5 @@ This project aims to create a diy programmable high power buck converter which c
  ```
  inductor is a blue-greea toroid with 40 turns of 1mm(19 guuge) enamel copper wire
   ```
+# CALCULATIONS 
+https://www.youtube.com/watch?v=f2JEUacdmig&list=WL&index=2
