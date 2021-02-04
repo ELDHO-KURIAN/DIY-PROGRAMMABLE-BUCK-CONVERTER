@@ -14,7 +14,7 @@ This project aims to create a diy programmable high power buck converter which c
 
 # SCHEMATIC
 <image src="images/Schematic_buckx_2021-02-04.png" width="800"> 
- the above video is not made by me .
+ 
 
 # INDUCTOR
  ```
@@ -22,6 +22,7 @@ This project aims to create a diy programmable high power buck converter which c
   ```
 # CALCULATIONS 
 https://www.youtube.com/watch?v=f2JEUacdmig&list=WL&index=2
+^ the above video is not made by me .
 
 # XL7015 and MP1584EN have to be soldered like this 
 <image src="images/IMG_20210125_130326.jpg" width="800">
