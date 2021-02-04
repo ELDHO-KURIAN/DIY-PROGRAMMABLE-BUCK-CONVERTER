@@ -21,3 +21,6 @@ This project aims to create a diy programmable high power buck converter which c
   ```
 # CALCULATIONS 
 https://www.youtube.com/watch?v=f2JEUacdmig&list=WL&index=2
+# WORKING
+<image src="images/IMG_20210126_113046.jpg" width="500"> 
+ <image src="images/IMG_20210126_113055.jpg" width="500"> 
