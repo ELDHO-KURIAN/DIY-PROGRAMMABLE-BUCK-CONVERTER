@@ -14,3 +14,8 @@ This project aims to create a diy programmable high power buck converter which c
 
 # SCHEMATIC
 <image src="images/Schematic_buckx_2021-02-04.png" width="800"> 
+
+# INDUCTOR
+ ```
+ inductor is a blue-greea toroid with 40 turns of 1mm(19 guuge) enamel copper wire
+  ```
